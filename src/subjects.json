@@ -1,0 +1,19 @@
+[ {
+    "id":"af4fb23c-5a32-423b-9c17-bb8e42d63368",
+    "nome":"Geografia",
+    "lessons":["916f7e4f-5324-4d39-adf9-8d6928c62ac0"]
+},{
+    "id":"f26a32b8-8613-4b6a-86ae-aa1d8ab4b5b3",
+    "nome": "História",
+    "lessons":["2e69f5dc-48e9-4fa6-bc94-b289beb4fdde","793a9dc7-fe4e-433e-9e7a-463815dbe899"]
+
+},{
+    "id":"ef877176-8a86-4f88-bc59-720f6d54f8f",
+    "nome":" Lingua Portuguesa",
+    "lessons":["740d1c63-2bee-451e-a422-efe1c52c3b64","cac57b30-740a-4d87-883b-ddb7d78ef33f","fda44b45-eff0-4ab0-8ccd-265935417d59"]
+},{
+    "id":"5b8539ce-8b4e-4271-a1a5-fbf3adc6d038",
+    "nome":"Matemática",
+    "lessons":["3ee497d2-7089-4fb4-a73d-f6c5c76ba259","54b0551c-fe4d-47d7-827c-4234e98c5851","f4192d71-d002-4886-a743-af01dadc2ae2"]
+}
+]
